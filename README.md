@@ -8,3 +8,4 @@ You can add list of VPN servers from .csv files.
 2. Select one of the type Vpn servers using Combobox(SSTP or L2TP).
 3. Select one of the servers from list and then click 'connect to server'.
 4. If connection is not work maybe current server doesn't support the type VPN server. Try another type of VPN server or choose another VPN server.
+5. You can use data1.csv like example.
